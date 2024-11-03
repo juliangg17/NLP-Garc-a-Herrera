@@ -18,8 +18,11 @@ Pasos para la construcción del proyecto:
 ○	Con base en el estado de ánimo del usuario y la frase ingresada, el programa deberá ofrecer recomendaciones pertinentes entre películas, juegos de mesa o libros. Utilice las herramientas de NLP aprendidas en las tres primeras unidades para lograr resultados coherentes y personalizados.
 
 Requerimientos mínimos:
+
 ●	Utilice clasificadores para determinar el estado de ánimo (por ejemplo, métodos de clasificación supervisada).
+
 ●	Aplique técnicas de embeddings y comparación de similitud semántica para encontrar las mejores coincidencias en los datasets. 
+
 ●	Utilice la potencia de reconocimiento de entidades nombradas, (NER, modelo Gliner) con el objetivo de obtener los mejores resultados buscados.
 
 Entrega:
