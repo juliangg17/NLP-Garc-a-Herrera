@@ -1,0 +1,6 @@
+Lista de tareas:
+-revisar data nans en games
+-revisar nans en general
+-Ver archivo embeddings(consultar en clase)
+-Pulir código 
+-Armar informe
