@@ -1,10 +1,10 @@
 Lista pendientes:
--usar ner
 -hacer red logistica para input sentimiento
 -revisar nans en general
--Ver archivo embeddings(consultar en clase)
+-Ver archivo embeddings(probar con csv)
 -Pulir código 
 -Armar informe
 
 Tareas hechas:
 -revisar data nans en games
+-usar ner
