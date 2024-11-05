@@ -1,6 +1,7 @@
 Lista pendientes:
 -revisar nans en general
--Pulir código 
+-Pulir código
+-Agregar interfaz para ingreso de inputs usuario
 -Armar informe
 
 Tareas hechas:
