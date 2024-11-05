@@ -1,0 +1,670 @@
+alegre	Estoy pum para arriba
+alegre	En la cresta de la ola
+alegre	Tope de gamuza
+alegre	Me siento en la cima del mundo
+alegre	Hoy es un día radiante
+alegre	Siento que puedo con todo
+alegre	La vida es maravillosa
+alegre	Todo va bien
+alegre	La alegría me desborda
+alegre	Me siento afortunado
+alegre	Tengo muchas razones para sonreír
+alegre	El sol brilla para mí
+alegre	Amo lo que hago
+alegre	Cada día es mejor que el anterior
+alegre	Estoy lleno de energía positiva
+alegre	Nada puede detenerme hoy
+alegre	Mi corazón está lleno de amor
+alegre	Me siento imparable
+alegre	Estoy rodeado de cosas buenas
+alegre	La vida me sonríe
+alegre	Todo está a mi favor
+alegre	Estoy pleno
+alegre	Este es un día fantástico
+alegre	Tengo mucha gratitud
+alegre	Siento que todo es posible
+melancólico	Estoy bajoneado
+melancólico	No tengo ganas de nada
+melancólico	La tristeza me invade
+melancólico	Nada parece mejorar
+melancólico	Me siento en un pozo sin salida
+melancólico	Estoy vacío por dentro
+melancólico	La melancolía es mi compañera
+melancólico	Siento que todo está perdido
+melancólico	La soledad me pesa
+melancólico	Estoy atrapado en un círculo de tristeza
+melancólico	Mi alma está cansada
+melancólico	No encuentro sentido a nada
+melancólico	Cada día es igual de triste
+melancólico	Estoy sin ánimo
+melancólico	No veo luz en mi vida
+melancólico	No tengo a nadie
+melancólico	Estoy solo
+melancólico	La nostalgia me consume
+melancólico	Nada tiene sentido
+melancólico	Mi corazón está roto
+melancólico	La desesperanza se apodera de mí
+melancólico	Nada me llena
+melancólico	No tengo rumbo
+melancólico	Me siento débil y cansado
+melancólico	La tristeza no se va
+alegre	No encuentro consuelo
+alegre	Estoy atrapado en la melancolía
+alegre	Siento un vacío inmenso
+alegre	La vida es sombría
+alegre	No tengo fuerzas
+alegre	Siento que no tengo propósito
+alegre	Estoy hundido en la tristeza
+alegre	La soledad me consume
+alegre	Nada me motiva
+alegre	Estoy en un abismo
+alegre	Estoy pum para arriba
+alegre	En la cresta de la ola
+alegre	Tope de gamuza
+alegre	Me siento en la cima del mundo
+alegre	Hoy es un día radiante
+alegre	Siento que puedo con todo
+alegre	La vida es maravillosa
+alegre	Todo va bien
+alegre	La alegría me desborda
+alegre	Me siento afortunado
+alegre	Tengo muchas razones para sonreír
+alegre	El sol brilla para mí
+alegre	Amo lo que hago
+alegre	Cada día es mejor que el anterior
+alegre	Estoy lleno de energía positiva
+melancólico	Nada puede detenerme hoy
+melancólico	Mi corazón está lleno de amor
+melancólico	Me siento imparable
+melancólico	Estoy rodeado de cosas buenas
+melancólico	La vida me sonríe
+melancólico	Todo está a mi favor
+melancólico	Estoy pleno
+melancólico	Este es un día fantástico
+melancólico	Tengo mucha gratitud
+melancólico	Siento que todo es posible
+melancólico	Estoy bajoneado
+melancólico	No tengo ganas de nada
+melancólico	La tristeza me invade
+melancólico	Nada parece mejorar
+melancólico	Me siento en un pozo sin salida
+melancólico	Estoy vacío por dentro
+melancólico	La melancolía es mi compañera
+melancólico	Siento que todo está perdido
+melancólico	La soledad me pesa
+melancólico	Estoy atrapado en un círculo de tristeza
+melancólico	Mi alma está cansada
+melancólico	No encuentro sentido a nada
+melancólico	Cada día es igual de triste
+melancólico	Estoy sin ánimo
+melancólico	No veo luz en mi vida
+alegre	No tengo a nadie
+alegre	Estoy solo
+alegre	La nostalgia me consume
+alegre	Nada tiene sentido
+alegre	Mi corazón está roto
+alegre	La desesperanza se apodera de mí
+alegre	Nada me llena
+alegre	No tengo rumbo
+alegre	Me siento débil y cansado
+alegre	La tristeza no se va
+alegre	No encuentro consuelo
+alegre	Estoy atrapado en la melancolía
+alegre	Siento un vacío inmenso
+alegre	La vida es sombría
+alegre	No tengo fuerzas
+alegre	Siento que no tengo propósito
+alegre	Estoy hundido en la tristeza
+alegre	La soledad me consume
+alegre	Nada me motiva
+alegre	Estoy en un abismo
+alegre	Estoy pum para arriba
+alegre	En la cresta de la ola
+alegre	Tope de gamuza
+alegre	Me siento en la cima del mundo
+alegre	Hoy es un día radiante
+melancólico	Siento que puedo con todo
+melancólico	La vida es maravillosa
+melancólico	Todo va bien
+melancólico	La alegría me desborda
+melancólico	Me siento afortunado
+melancólico	Tengo muchas razones para sonreír
+melancólico	El sol brilla para mí
+melancólico	Amo lo que hago
+melancólico	Cada día es mejor que el anterior
+melancólico	Estoy lleno de energía positiva
+melancólico	Nada puede detenerme hoy
+melancólico	Mi corazón está lleno de amor
+melancólico	Me siento imparable
+melancólico	Estoy rodeado de cosas buenas
+melancólico	La vida me sonríe
+melancólico	Todo está a mi favor
+melancólico	Estoy pleno
+melancólico	Este es un día fantástico
+melancólico	Tengo mucha gratitud
+melancólico	Siento que todo es posible
+melancólico	Estoy bajoneado
+melancólico	No tengo ganas de nada
+melancólico	La tristeza me invade
+melancólico	Nada parece mejorar
+melancólico	Me siento en un pozo sin salida
+alegre	Estoy vacío por dentro
+alegre	La melancolía es mi compañera
+alegre	Siento que todo está perdido
+alegre	La soledad me pesa
+alegre	Estoy atrapado en un círculo de tristeza
+alegre	Mi alma está cansada
+alegre	No encuentro sentido a nada
+alegre	Cada día es igual de triste
+alegre	Estoy sin ánimo
+alegre	No veo luz en mi vida
+alegre	No tengo a nadie
+alegre	Estoy solo
+alegre	La nostalgia me consume
+alegre	Nada tiene sentido
+alegre	Mi corazón está roto
+alegre	La desesperanza se apodera de mí
+alegre	Nada me llena
+alegre	No tengo rumbo
+alegre	Me siento débil y cansado
+alegre	La tristeza no se va
+alegre	No encuentro consuelo
+alegre	Estoy atrapado en la melancolía
+alegre	Siento un vacío inmenso
+alegre	La vida es sombría
+alegre	No tengo fuerzas
+alegre	Siento que no tengo propósito
+alegre	Estoy hundido en la tristeza
+alegre	La soledad me consume
+alegre	Nada me motiva
+alegre	Estoy en un abismo
+alegre	Estoy re copado con esto
+alegre	Hoy estoy a full
+alegre	Es un día de aquellos, ¡a disfrutar!
+alegre	Estoy re cebado con la vida
+alegre	Estoy hecho un fenómeno
+alegre	¡Qué buena onda hoy!
+alegre	Me siento en la cresta de la ola
+alegre	Estoy pum para arriba
+alegre	Hoy es un día de película
+alegre	¡Vamos todavía!
+alegre	Estoy para tirar manteca al techo
+alegre	La estoy rompiendo toda
+alegre	Todo me sale bien, estoy de 10
+alegre	¡Aguante la buena vibra!
+alegre	La vida es una fiesta
+alegre	Estoy hecho un capo hoy
+alegre	Hoy ando a puro disfrute
+alegre	Me siento groso, ¿viste?
+alegre	Estoy para pasarla bomba
+alegre	Hoy estoy para comerme el mundo
+alegre	La estoy pasando bárbaro
+alegre	Hoy me siento un campeón
+alegre	Estoy en la cima del mundo
+alegre	Estoy chocho de la vida
+alegre	¡Hoy sale con fritas!
+alegre	Ando a los saltos de felicidad
+alegre	Este día es una locura de lindo
+alegre	Me siento un crack
+alegre	Hoy soy puro entusiasmo
+alegre	Estoy de fiesta
+alegre	Hoy estoy pipí cucú
+alegre	Es un día de novela
+alegre	Hoy soy pura energía positiva
+alegre	Estoy en mi salsa
+alegre	¡Qué día increíble!
+alegre	Estoy en el mejor momento
+alegre	Hoy estoy para lo que sea
+alegre	¡Esto es una masa!
+alegre	Estoy como loco de feliz
+alegre	Hoy estoy re arriba
+alegre	Es un día de 10 puntos
+alegre	Hoy es un lujo de día
+alegre	¡Qué buena onda!
+alegre	Estoy para tirar la casa por la ventana
+alegre	Me siento como un pibe
+alegre	Ando con toda la polenta
+alegre	Hoy soy el rey del mundo
+alegre	Este día es un golazo
+alegre	¡Hoy la rompo toda!
+alegre	Estoy como perro con dos colas
+alegre	Hoy soy invencible
+alegre	Este día no tiene desperdicio
+alegre	Estoy hecho un monstruo de la felicidad
+alegre	Estoy re copado con esto
+alegre	Hoy estoy a full
+alegre	Es un día de aquellos, ¡a disfrutar!
+alegre	Estoy re cebado con la vida
+alegre	Estoy hecho un fenómeno
+alegre	¡Qué buena onda hoy!
+alegre	Me siento en la cresta de la ola
+alegre	Estoy pum para arriba
+alegre	Hoy es un día de película
+alegre	¡Vamos todavía!
+alegre	Estoy para tirar manteca al techo
+alegre	La estoy rompiendo toda
+alegre	Todo me sale bien, estoy de 10
+alegre	¡Aguante la buena vibra!
+alegre	La vida es una fiesta
+alegre	Estoy hecho un capo hoy
+alegre	Hoy ando a puro disfrute
+alegre	Me siento groso, ¿viste?
+alegre	Estoy para pasarla bomba
+alegre	Hoy estoy para comerme el mundo
+alegre	La estoy pasando bárbaro
+alegre	Hoy me siento un campeón
+alegre	Estoy en la cima del mundo
+alegre	Estoy chocho de la vida
+alegre	¡Hoy sale con fritas!
+alegre	Ando a los saltos de felicidad
+alegre	Este día es una locura de lindo
+alegre	Me siento un crack
+alegre	Hoy soy puro entusiasmo
+alegre	Estoy de fiesta
+alegre	Hoy estoy pipí cucú
+alegre	Es un día de novela
+alegre	Hoy soy pura energía positiva
+alegre	Estoy en mi salsa
+alegre	¡Qué día increíble!
+alegre	Estoy en el mejor momento
+alegre	Hoy estoy para lo que sea
+alegre	¡Esto es una masa!
+alegre	Estoy como loco de feliz
+alegre	Hoy estoy re arriba
+alegre	Es un día de 10 puntos
+alegre	Hoy es un lujo de día
+alegre	¡Qué buena onda!
+alegre	Estoy para tirar la casa por la ventana
+alegre	Me siento como un pibe
+alegre	Ando con toda la polenta
+alegre	Hoy soy el rey del mundo
+alegre	Este día es un golazo
+alegre	¡Hoy la rompo toda!
+alegre	Estoy como perro con dos colas
+alegre	Hoy soy invencible
+alegre	Este día no tiene desperdicio
+alegre	Estoy hecho un monstruo de la felicidad
+alegre	Estoy re copado con esto
+alegre	Hoy estoy a full
+alegre	Es un día de aquellos, ¡a disfrutar!
+alegre	Estoy re cebado con la vida
+alegre	Estoy hecho un fenómeno
+alegre	¡Qué buena onda hoy!
+alegre	Me siento en la cresta de la ola
+alegre	Estoy pum para arriba
+alegre	Hoy es un día de película
+alegre	¡Vamos todavía!
+alegre	Estoy para tirar manteca al techo
+alegre	La estoy rompiendo toda
+alegre	Todo me sale bien, estoy de 10
+alegre	¡Aguante la buena vibra!
+alegre	La vida es una fiesta
+alegre	Estoy hecho un capo hoy
+alegre	Hoy ando a puro disfrute
+alegre	Me siento groso, ¿viste?
+alegre	Estoy para pasarla bomba
+alegre	Hoy estoy para comerme el mundo
+alegre	La estoy pasando bárbaro
+alegre	Hoy me siento un campeón
+alegre	Estoy en la cima del mundo
+alegre	Estoy chocho de la vida
+alegre	¡Hoy sale con fritas!
+alegre	Ando a los saltos de felicidad
+alegre	Este día es una locura de lindo
+alegre	Me siento un crack
+alegre	Hoy soy puro entusiasmo
+alegre	Estoy de fiesta
+alegre	Hoy estoy pipí cucú
+alegre	Es un día de novela
+alegre	Hoy soy pura energía positiva
+alegre	Estoy en mi salsa
+alegre	¡Qué día increíble!
+alegre	Estoy en el mejor momento
+alegre	Hoy estoy para lo que sea
+alegre	¡Esto es una masa!
+alegre	Estoy como loco de feliz
+alegre	Hoy estoy re arriba
+alegre	Es un día de 10 puntos
+alegre	Hoy es un lujo de día
+alegre	¡Qué buena onda!
+alegre	Estoy para tirar la casa por la ventana
+alegre	Me siento como un pibe
+alegre	Ando con toda la polenta
+alegre	Hoy soy el rey del mundo
+alegre	Este día es un golazo
+alegre	¡Hoy la rompo toda!
+alegre	Estoy como perro con dos colas
+alegre	Hoy soy invencible
+alegre	Este día no tiene desperdicio
+alegre	Estoy hecho un monstruo de la felicidad
+alegre	Estoy re copado con esto
+alegre	Hoy estoy a full
+alegre	Es un día de aquellos, ¡a disfrutar!
+alegre	Estoy re cebado con la vida
+alegre	Estoy hecho un fenómeno
+alegre	¡Qué buena onda hoy!
+alegre	Me siento en la cresta de la ola
+alegre	Estoy pum para arriba
+alegre	Hoy es un día de película
+alegre	¡Vamos todavía!
+alegre	Estoy para tirar manteca al techo
+alegre	La estoy rompiendo toda
+alegre	Todo me sale bien, estoy de 10
+alegre	¡Aguante la buena vibra!
+alegre	La vida es una fiesta
+alegre	Estoy hecho un capo hoy
+alegre	Hoy ando a puro disfrute
+alegre	Me siento groso, ¿viste?
+alegre	Estoy para pasarla bomba
+alegre	Hoy estoy para comerme el mundo
+alegre	La estoy pasando bárbaro
+alegre	Hoy me siento un campeón
+alegre	Estoy en la cima del mundo
+alegre	Estoy chocho de la vida
+alegre	¡Hoy sale con fritas!
+alegre	Ando a los saltos de felicidad
+alegre	Este día es una locura de lindo
+alegre	Me siento un crack
+alegre	Hoy soy puro entusiasmo
+alegre	Estoy de fiesta
+alegre	Hoy estoy pipí cucú
+alegre	Es un día de novela
+alegre	Hoy soy pura energía positiva
+alegre	Estoy en mi salsa
+alegre	¡Qué día increíble!
+alegre	Estoy en el mejor momento
+alegre	Hoy estoy para lo que sea
+alegre	¡Esto es una masa!
+alegre	Estoy como loco de feliz
+alegre	Hoy estoy re arriba
+alegre	Es un día de 10 puntos
+alegre	Hoy es un lujo de día
+alegre	¡Qué buena onda!
+alegre	Estoy para tirar la casa por la ventana
+alegre	Me siento como un pibe
+alegre	Ando con toda la polenta
+alegre	Hoy soy el rey del mundo
+alegre	Este día es un golazo
+alegre	¡Hoy la rompo toda!
+alegre	Estoy como perro con dos colas
+alegre	Hoy soy invencible
+alegre	Este día no tiene desperdicio
+alegre	Estoy hecho un monstruo de la felicidad
+alegre	Estoy re copado con esto
+alegre	Hoy estoy a full
+alegre	Es un día de aquellos, ¡a disfrutar!
+alegre	Estoy re cebado con la vida
+alegre	Estoy hecho un fenómeno
+alegre	¡Qué buena onda hoy!
+alegre	Me siento en la cresta de la ola
+alegre	Estoy pum para arriba
+alegre	Hoy es un día de película
+alegre	¡Vamos todavía!
+alegre	Estoy para tirar manteca al techo
+alegre	La estoy rompiendo toda
+alegre	Todo me sale bien, estoy de 10
+alegre	¡Aguante la buena vibra!
+alegre	La vida es una fiesta
+alegre	Estoy hecho un capo hoy
+alegre	Hoy ando a puro disfrute
+alegre	Me siento groso, ¿viste?
+alegre	Estoy para pasarla bomba
+alegre	Hoy estoy para comerme el mundo
+alegre	La estoy pasando bárbaro
+alegre	Hoy me siento un campeón
+alegre	Estoy en la cima del mundo
+melancólico	Estoy chocho de la vida
+melancólico	¡Hoy sale con fritas!
+melancólico	Ando a los saltos de felicidad
+melancólico	Este día es una locura de lindo
+melancólico	Me siento un crack
+melancólico	Hoy soy puro entusiasmo
+melancólico	Estoy de fiesta
+melancólico	Hoy estoy pipí cucú
+melancólico	Es un día de novela
+melancólico	Hoy soy pura energía positiva
+melancólico	Estoy en mi salsa
+melancólico	¡Qué día increíble!
+melancólico	Estoy en el mejor momento
+melancólico	Hoy estoy para lo que sea
+melancólico	¡Esto es una masa!
+melancólico	Estoy como loco de feliz
+melancólico	Hoy estoy re arriba
+melancólico	Es un día de 10 puntos
+melancólico	Hoy es un lujo de día
+melancólico	¡Qué buena onda!
+melancólico	Estoy para tirar la casa por la ventana
+melancólico	Me siento como un pibe
+melancólico	Ando con toda la polenta
+melancólico	Hoy soy el rey del mundo
+melancólico	Este día es un golazo
+melancólico	¡Hoy la rompo toda!
+melancólico	Estoy como perro con dos colas
+melancólico	Hoy soy invencible
+melancólico	Este día no tiene desperdicio
+melancólico	Estoy hecho un monstruo de la felicidad
+melancólico	Estoy medio bajón hoy
+melancólico	La cosa está complicada
+melancólico	Me siento un poco hecho bolsa
+melancólico	Ando medio tristón
+melancólico	Nada me levanta
+melancólico	Estoy en un pozo
+melancólico	Siento que estoy en el horno
+melancólico	No doy pie con bola
+melancólico	Estoy más solo que perro malo
+melancólico	Estoy sin un mango y bajoneado
+melancólico	La vida se me viene en picada
+melancólico	Estoy sin ganas de nada
+melancólico	Todo está cuesta arriba
+melancólico	No pego una
+melancólico	Estoy en la lona
+melancólico	Todo me sale al revés
+melancólico	Estoy más solo que un hongo
+melancólico	Hoy me siento un desastre
+melancólico	No veo la salida
+melancólico	Estoy en un bajón tremendo
+melancólico	La cosa no pinta bien
+melancólico	No tengo fuerzas para seguir
+melancólico	Hoy todo está cuesta abajo
+melancólico	Estoy en caída libre
+melancólico	Siento que no doy más
+melancólico	Nada tiene sentido
+melancólico	Ando con el ánimo por el piso
+melancólico	Estoy para el cachetazo
+melancólico	No tengo a nadie cerca
+melancólico	Estoy en la mala
+melancólico	Me siento perdido
+melancólico	Hoy soy un desastre
+melancólico	Todo está nublado
+melancólico	Me siento un barco a la deriva
+melancólico	Nada me llena
+melancólico	Estoy hecho percha
+melancólico	La tristeza no me suelta
+melancólico	No tengo ganas de nada
+melancólico	Hoy ando hecho pelota
+melancólico	Nada levanta este día
+melancólico	Estoy en una nebulosa de tristeza
+melancólico	Me siento un fantasma
+melancólico	Nada cambia, todo igual de mal
+melancólico	Hoy soy puro bajón
+melancólico	La vida me supera
+melancólico	No encuentro rumbo
+melancólico	Estoy sin fuerzas
+melancólico	Hoy soy puro lamento
+melancólico	Todo está cuesta abajo
+melancólico	Me siento una sombra de mí mismo
+melancólico	Estoy en la oscuridad total
+melancólico	Estoy medio bajón hoy
+melancólico	La cosa está complicada
+melancólico	Me siento un poco hecho bolsa
+melancólico	Ando medio tristón
+melancólico	Nada me levanta
+melancólico	Estoy en un pozo
+melancólico	Siento que estoy en el horno
+melancólico	No doy pie con bola
+melancólico	Estoy más solo que perro malo
+melancólico	Estoy sin un mango y bajoneado
+melancólico	La vida se me viene en picada
+melancólico	Estoy sin ganas de nada
+melancólico	Todo está cuesta arriba
+melancólico	No pego una
+melancólico	Estoy en la lona
+melancólico	Todo me sale al revés
+melancólico	Estoy más solo que un hongo
+melancólico	Hoy me siento un desastre
+melancólico	No veo la salida
+melancólico	Estoy en un bajón tremendo
+melancólico	La cosa no pinta bien
+melancólico	No tengo fuerzas para seguir
+melancólico	Hoy todo está cuesta abajo
+melancólico	Estoy en caída libre
+melancólico	Siento que no doy más
+melancólico	Nada tiene sentido
+melancólico	Ando con el ánimo por el piso
+melancólico	Estoy para el cachetazo
+melancólico	No tengo a nadie cerca
+melancólico	Estoy en la mala
+melancólico	Me siento perdido
+melancólico	Hoy soy un desastre
+melancólico	Todo está nublado
+melancólico	Me siento un barco a la deriva
+melancólico	Nada me llena
+melancólico	Estoy hecho percha
+melancólico	La tristeza no me suelta
+melancólico	No tengo ganas de nada
+melancólico	Hoy ando hecho pelota
+melancólico	Nada levanta este día
+melancólico	Estoy en una nebulosa de tristeza
+melancólico	Me siento un fantasma
+melancólico	Nada cambia, todo igual de mal
+melancólico	Hoy soy puro bajón
+melancólico	La vida me supera
+melancólico	No encuentro rumbo
+melancólico	Estoy sin fuerzas
+melancólico	Hoy soy puro lamento
+melancólico	Todo está cuesta abajo
+melancólico	Me siento una sombra de mí mismo
+melancólico	Estoy en la oscuridad total
+melancólico	Estoy medio bajón hoy
+melancólico	La cosa está complicada
+melancólico	Me siento un poco hecho bolsa
+melancólico	Ando medio tristón
+melancólico	Nada me levanta
+melancólico	Estoy en un pozo
+melancólico	Siento que estoy en el horno
+melancólico	No doy pie con bola
+melancólico	Estoy más solo que perro malo
+melancólico	Estoy sin un mango y bajoneado
+melancólico	La vida se me viene en picada
+melancólico	Estoy sin ganas de nada
+melancólico	Todo está cuesta arriba
+melancólico	No pego una
+melancólico	Estoy en la lona
+melancólico	Todo me sale al revés
+melancólico	Estoy más solo que un hongo
+melancólico	Hoy me siento un desastre
+melancólico	No veo la salida
+melancólico	Estoy en un bajón tremendo
+melancólico	La cosa no pinta bien
+melancólico	No tengo fuerzas para seguir
+melancólico	Hoy todo está cuesta abajo
+melancólico	Estoy en caída libre
+melancólico	Siento que no doy más
+melancólico	Nada tiene sentido
+melancólico	Ando con el ánimo por el piso
+melancólico	Estoy para el cachetazo
+melancólico	No tengo a nadie cerca
+melancólico	Estoy en la mala
+melancólico	Me siento perdido
+melancólico	Hoy soy un desastre
+melancólico	Todo está nublado
+melancólico	Me siento un barco a la deriva
+melancólico	Nada me llena
+melancólico	Estoy hecho percha
+melancólico	La tristeza no me suelta
+melancólico	No tengo ganas de nada
+melancólico	Hoy ando hecho pelota
+melancólico	Nada levanta este día
+melancólico	Estoy en una nebulosa de tristeza
+melancólico	Me siento un fantasma
+melancólico	Nada cambia, todo igual de mal
+melancólico	Hoy soy puro bajón
+melancólico	La vida me supera
+melancólico	No encuentro rumbo
+melancólico	Estoy sin fuerzas
+melancólico	Hoy soy puro lamento
+melancólico	Todo está cuesta abajo
+melancólico	Me siento una sombra de mí mismo
+melancólico	Estoy en la oscuridad total
+melancólico	Estoy medio bajón hoy
+melancólico	La cosa está complicada
+melancólico	Me siento un poco hecho bolsa
+melancólico	Ando medio tristón
+melancólico	Nada me levanta
+melancólico	Estoy en un pozo
+melancólico	Siento que estoy en el horno
+melancólico	No doy pie con bola
+melancólico	Estoy más solo que perro malo
+melancólico	Estoy sin un mango y bajoneado
+melancólico	La vida se me viene en picada
+melancólico	Estoy sin ganas de nada
+melancólico	Todo está cuesta arriba
+melancólico	No pego una
+melancólico	Estoy en la lona
+melancólico	Todo me sale al revés
+melancólico	Estoy más solo que un hongo
+melancólico	Hoy me siento un desastre
+melancólico	No veo la salida
+melancólico	Estoy en un bajón tremendo
+melancólico	La cosa no pinta bien
+melancólico	No tengo fuerzas para seguir
+melancólico	Hoy todo está cuesta abajo
+melancólico	Estoy en caída libre
+melancólico	Siento que no doy más
+melancólico	Nada tiene sentido
+melancólico	Ando con el ánimo por el piso
+melancólico	Estoy para el cachetazo
+melancólico	No tengo a nadie cerca
+melancólico	Estoy en la mala
+melancólico	Me siento perdido
+melancólico	Hoy soy un desastre
+melancólico	Todo está nublado
+melancólico	Me siento un barco a la deriva
+melancólico	Nada me llena
+melancólico	Estoy hecho percha
+melancólico	La tristeza no me suelta
+melancólico	No tengo ganas de nada
+melancólico	Hoy ando hecho pelota
+melancólico	Nada levanta este día
+melancólico	Estoy en una nebulosa de tristeza
+melancólico	Me siento un fantasma
+melancólico	Nada cambia, todo igual de mal
+melancólico	Hoy soy puro bajón
+melancólico	La vida me supera
+melancólico	No encuentro rumbo
+melancólico	Estoy sin fuerzas
+melancólico	Hoy soy puro lamento
+melancólico	Todo está cuesta abajo
+melancólico	Me siento una sombra de mí mismo
+melancólico	Estoy en la oscuridad total
+melancólico	Estoy medio bajón hoy
+melancólico	La cosa está complicada
+melancólico	Me siento un poco hecho bolsa
+melancólico	Ando medio tristón
+melancólico	Nada me levanta
+melancólico	Estoy en un pozo
+melancólico	Siento que estoy en el horno
+melancólico	No doy pie con bola
+melancólico	Estoy más solo que perro malo
+melancólico	Estoy sin un mango y bajoneado
+melancólico	La vida se me viene en picada
+melancólico	Estoy sin ganas de nada
+melancólico	Todo está cuesta arriba
+melancólico	No pego una
+melancólico	Estoy en la lona
+melancólico	Todo me sale al revés
+melancólico	Estoy más solo que un hongo
+melancólico	Hoy me siento un desastre
+melancólico	No veo la salida
+melancólico	Estoy en un bajón tremendo
+melancólico	La cosa no pinta bien
