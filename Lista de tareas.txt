@@ -1,6 +1,4 @@
 Lista pendientes:
--revisar nans en general
--Pulir código
 -Agregar interfaz para ingreso de inputs usuario
 -Armar informe
 
@@ -9,3 +7,5 @@ Tareas hechas:
 -revisar data nans en games
 -usar ner
 -Ver archivo embeddings, se cambió de .pt a .csv
+-revisar nans en general
+-Pulir código
