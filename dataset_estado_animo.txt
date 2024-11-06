@@ -1,3 +1,17 @@
+alegre  estoy pila pila
+alegre  estoy en la cresta de la ola 
+melancólico  me quiero pegar un corchaso 
+melancólico  estoy por el piso 
+alegre  estoy atr
+alegre  estoy joya
+alegre  estoy 1000 puntos
+alegre  estoy de 10 
+melancólico  estoy hecho fruta 
+melancólico  estoy hecho bolsa 
+melancólico  estoy hecho polvo 
+melancólico  estoy a media máquina
+alegre  de fiesta
+alegre  estoy para un estreno
 alegre	Re bien
 alegre	Muy contento
 alegre	Ando a full
@@ -695,3 +709,50 @@ melancólico	Hoy me siento un desastre
 melancólico	No veo la salida
 melancólico	Estoy en un bajón tremendo
 melancólico	La cosa no pinta bien
+alegre	action
+alegre	action comedy
+alegre	action comedy family
+alegre	adventure
+alegre	adventure comedy
+alegre	animals card game environmental
+alegre	card game
+alegre	card game comic book deduction
+alegre	card game deduction party game word game
+alegre	card game educational
+alegre	card game number
+alegre	card game party game
+alegre	card game political
+alegre	card game realtime
+alegre	card game world war i
+alegre	comedy romance
+alegre	humor party game
+alegre	love sex
+alegre	party game
+alegre	peace
+alegre	philosophy religion happiness
+alegre	thriller
+melancólico	action comedy drama
+melancólico	action comedy horror
+melancólico	action drama horror
+melancólico	action horror romance
+melancólico	adventure horror
+melancólico	adventure horror miniatures science fiction
+melancólico	adventure horror mystery
+melancólico	adventure mystery scifi
+melancólico	adventure scifi thriller
+melancólico	biography comedy crime
+melancólico	biography crime drama
+melancólico	biography drama
+melancólico	biography drama romance
+melancólico	childrens game fighting horror zombies
+melancólico	comedy drama romance
+melancólico	comedy family romance
+melancólico	drama history war
+melancólico	drama mystery romance
+melancólico	drama romance
+melancólico	drama romance war
+melancólico	mysticism hell
+melancólico	poor new state new tenement houses new state new
+melancólico	poor working class
+melancólico	wargame world war
+melancólico	world war
