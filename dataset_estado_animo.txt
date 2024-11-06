@@ -1,3 +1,30 @@
+alegre	Re bien
+alegre	Muy contento
+alegre	Ando a full
+alegre	Todo joya
+alegre	Estoy genial
+alegre	Súper feliz
+alegre	Estoy bárbaro
+alegre	Ando de 10
+alegre	Re motivado
+alegre	Todo perfecto
+melancólico	Estoy medio triste
+melancólico	Ando bajón
+melancólico	Re cansado
+melancólico	Todo mal
+melancólico	Estoy medio mal
+melancólico	Ando bajoneado
+melancólico	Me siento vacío
+melancólico	Estoy sin ganas
+melancólico	No tengo ánimo
+melancólico	Ando medio bajón
+melancólico	Estoy medio mal
+melancólico	Maso
+melancólico	Ando medio bajoneado
+alegre	Estoy muy bien
+alegre	En la plena
+alegre	Estoy re bien
+alegre	Hoy estoy muy bien
 alegre	Estoy pum para arriba
 alegre	En la cresta de la ola
 alegre	Tope de gamuza
